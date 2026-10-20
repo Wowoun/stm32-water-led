@@ -1,0 +1,24 @@
+# ---- Keil 编译中间文件 ----
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.lnp
+*.iex
+*.axf
+*.scvd
+*.build_log.htm
+*.uvoptx
+*.uvguix.*
+*.bak
+Listings/
+
+# ---- 保留的编译产物（可直接烧录，作为"能跑起来"的证据）----
+!Objects/*.hex
+!Objects/*.axf
+
+# ---- 系统文件 ----
+Thumbs.db
+desktop.ini
+.DS_Store
