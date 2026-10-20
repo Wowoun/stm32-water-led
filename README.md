@@ -188,7 +188,3 @@ $enc = New-Object System.Text.UTF8Encoding($false)
 - ✅ SysTick 中断时基（非忙等，按键响应不受节拍影响）
 - ✅ 完整注释 + 踩坑记录（README 即答辩材料）
 - ✅ Git 版本管理 + GitHub public 仓库
-
----
-
-*创建于 2026-10-20　　作者：__________（学号 2025218535）*
